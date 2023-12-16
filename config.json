@@ -1,3 +1,10 @@
 {
-  "DB_URI": ""
+  "repo_list": [
+    "https://github.com/ohmyzsh/ohmyzsh",
+    "https://github.com/jmorganca/ollama",
+    "https://github.com/anyproto/anytype-ts"
+  ],
+  "user_list": [
+    "https://github.com/MCUxDaredevil"
+  ]
 }
